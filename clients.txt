@@ -1,0 +1,20 @@
+1;Jack;Sprock;Male;22;0123456789;jacks@gmail.com
+2;Momza;Konto;Female;13;0012345678;mo.konto@gmail.com
+3;Kabelo;Montshosi;Male;10;0001234567;kabelomontshosi@gmail.com
+4;Siphokazi;Mitchell;Male;1;0749766582;mnisi.sam@gmail.com
+5;Maureen;Masemola;Male;34;0757653013;anne84@pule.lp.school.za
+6;Charl;September;Male;11;0714751413;lydia17@mlangeni.co.za
+7;Ivan;Majola;Male;21;0755487111;jan54@yahoo.com
+8;Terence;Potgieter;Male;4;0847809043;jerome.ngobeni@maritz.co.za
+9;Amanda;Nyathi;Female;29;0778379839;nkosi.eric@lottering.grondar.za
+10;Unathi;Masilela;Female;28;0758025181;engelbrecht.allan@botha.edu.za
+11;Emmanuel;Ngubane;Male;25;0839437888;adele.kemp@taljaard.nw.school.za
+12;Bianca;Davids;Female;31;0825723356;tsotetsi.shane@yahoo.com
+13;Vuyokazi;Potgieter;Male;12;0689187912;oliver.pieter@nell.gp.school.za
+14;Gail;Van Aswegen;Female;3;0689805322;simphiwe.lourens@webmail.co.za
+15;Fikile;Beukes;Female;17;0645314027;rkhumalo@yahoo.com
+16;Joe;Daniels;Male;8;0744368562;oliver.fikile@africa.edu.za
+17;Bulelwa;da Silva;Male;7;0872534745;debeer.neville@vorster.gov.za
+18;Yolanda;Van Den Berg;Female;20;0747345812;hvisser@webmail.co.za
+19;Nozipho;Matlala;Female;35;0827246234;andre.ntshangase@swanepoel.school.za
+20;Donald;Mulaudzi;Male;33;0685766042;duduzile.nyathi@shabalala.kzn.school.za
